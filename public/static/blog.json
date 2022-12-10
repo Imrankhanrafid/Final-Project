@@ -1,8 +1,19 @@
 [
   {
-    "title": "Jim Morisson Says when the musics over turn off the light",
+    "title": " USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), 2020, 2021, 2022
+    USENIX Conference on File and Storage Technologies (FAST), 2020
+    USENIX Annual Technical Conference (USENIX ATC), 2018, 2019, 2020
+    ACM/IEEE International Symposium on Computer Architecture (ISCA), 2018 ERC, 2020 ERC, 2022 ERC
+    IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020, 2021, 2022
+    ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 ERC
+    IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2018 ERC, 2020, 2021 ERC, 2023
+    ACM Symposium on Memory Systems (MEMSYS), 2019
+    Non-Volatile Memories Workshop (NVMW), 2019, 2020, 2021, 2022
+    ACM SIGOPS Asia-Pacific Workshop on Systems (APSys), 2020, 2021
+    IEEE Cluster, 2018, 2019
+    International Parallel Data Systems Workshop (PDSW) in conjunction with SC, 2018, 2019",
     "img": "img/news/1.jpg",
-    "category": "Web Development",
+    "category": "Program Committee",
     "date": { "date": "23", "month": "Dec" },
     "details": [
       "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
@@ -11,9 +22,16 @@
     ]
   },
   {
-    "title": "How to be appreciated for your hard work as a developer",
+    "title": "IEEE Transactions on Parallel and Distributed Systems, 2022
+    IEEE Transactions on Computers: Special Issue on Hardware Security, 2020
+    IEEE Transactions on Computers, 2020, 2021, 2022
+    ACM Transactions on Architecture and Code Optimization, 2019, 2020, 2022
+    IEEE Transactions on Circuits and Systems II: Express Briefs, 2019
+    IEEE Computer Architecture Letters, 2017, 2018, 2020, 2021, 2022
+    ACM Transactions on Storage, 2016
+    ",
     "img": "img/news/2.jpg",
-    "category": "Branding",
+    "category": "Reviewer",
     "date": { "date": "23", "month": "Dec" },
     "details": [
       "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
@@ -22,9 +40,16 @@
     ]
   },
   {
-    "title": "How designers and developers can collaborate better",
+    "title": "14th Annual Non-Volatile Memories Workshop (NVMW'23), Program Co-Chair, 2023
+    IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Registration Chair, 2021
+    USENIX Workshop on Hot Topics in Storge and File Systems (HotStorage), Session Chair, 2020
+    USENIX Annual Technical Conference (ATC), Session Chair, 2020
+    USENIX Conference on File and Storage Technologies (FAST), Session Chair, 2020
+    IEEE/ACM International Symposium on Microarchitecture (MICRO), Session Chair, 2019
+    Non-Volatile Memories Workshop, Session Chair, 2018
+    ACM SIGPLAN/SIGOPS VEE, Web Chair, 2015",
     "img": "img/news/3.jpg",
-    "category": "Social Media",
+    "category": "Organizing Committee",
     "date": { "date": "23", "month": "Dec" },
     "details": [
       "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
